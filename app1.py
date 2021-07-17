@@ -94,7 +94,7 @@ def main():
                 st.success("Logged in as {}".format(username))
                 clean_blocks(blk1)
                 clean_blocks(blk2)
-                st.write("Get your prediction now [link](https://share.streamlit.io/ameenafarooq/mini-project-sem-6/main/app2.py)")
+                st.write("Get your prediction now [link](https://share.streamlit.io/rajpratyush/NEST/main/app2.py)")
             else:
                 st.warning("Incorrect username/password")
     else:
