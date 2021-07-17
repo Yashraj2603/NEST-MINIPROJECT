@@ -28,7 +28,7 @@ with col1:
 with col2:
     st.image("logo1.jpg")
     st.write("")
-    st.write(" [Get started now](https://share.streamlit.io/ameenafarooq/mini_project_signin/main/app1.py)")
+    st.write(" [Get started now](https://share.streamlit.io/rajpratyush/NEST/main/app1.py)")
 
 with col3:
     st.write("")
